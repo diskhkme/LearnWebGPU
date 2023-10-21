@@ -69,7 +69,7 @@ The Dawn-based distribution I provide here fetches the source code of Dawn from 
 
 **Pros**
 
- - Dawn is much more comfortable to develop with, because it gives more detailed error messages
+ - Dawn is much more comfortable to develop with, because it gives more detailed error messages.
  - It is in general ahead of `wgpu-native` regarding the progress of implementation (but `wgpu-native` will catch up eventually).
 
 **Cons**
